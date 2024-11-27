@@ -1,0 +1,10 @@
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\bin\Debug\Academic Planning.exe.config
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\bin\Debug\Academic Planning.exe
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\bin\Debug\Academic Planning.pdb
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\obj\Debug\Academic Planning.csproj.AssemblyReference.cache
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\obj\Debug\Academic_Planning.Form1.resources
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\obj\Debug\Academic_Planning.Properties.Resources.resources
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\obj\Debug\Academic Planning.csproj.GenerateResource.cache
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\obj\Debug\Academic Planning.csproj.CoreCompileInputs.cache
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\obj\Debug\Academic Planning.exe
+C:\Users\ggrac\source\repos\myIGME-201\UnitTest3_Gracia\201-TigerEye\Academic Planning\obj\Debug\Academic Planning.pdb
